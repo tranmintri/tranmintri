@@ -1,5 +1,5 @@
 ## Hi there 👋
-👋 Hi, I’m Trần Minh Trí
+👋 Hi, I’m Trần Minh Trí\n
 
 🎓 Software Engineering student at Industrial University of Ho Chi Minh City.
 💻 Passionate about backend development and creating scalable software solutions.
